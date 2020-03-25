@@ -1,4 +1,4 @@
-VERSION=0.0.3
+VERSION=0.0.4
 
 build:
 	@docker build . -t danielleadams/shpec:latest -t danielleadams/shpec:$(VERSION)

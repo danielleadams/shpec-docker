@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM heroku/heroku:18
 
 MAINTAINER Danielle Adams (adamzdanielle@gmail.com)
 
