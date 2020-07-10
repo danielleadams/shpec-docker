@@ -1,4 +1,6 @@
-FROM heroku/heroku:18
+ARG BASE_IMAGE
+
+FROM $BASE_IMAGE
 
 MAINTAINER Danielle Adams (adamzdanielle@gmail.com)
 
